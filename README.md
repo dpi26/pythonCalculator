@@ -1,1 +1,1 @@
-# Python Calculator using
+# Python Calculator using GUI
