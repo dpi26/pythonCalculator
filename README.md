@@ -11,4 +11,4 @@ by this you can solved the problem..
 it is completed my python using this process.
 by this process to create my experience by using coding in python and used GUI library of python..
 ....this is very creatable for operations .
-this is 
+this is very populor 
